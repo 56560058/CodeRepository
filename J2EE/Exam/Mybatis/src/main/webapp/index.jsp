@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!456</h2>
+<h2>MyBatis</h2>
 </body>
 </html>
