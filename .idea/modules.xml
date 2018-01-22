@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CXF/CXF.iml" filepath="$PROJECT_DIR$/CXF/CXF.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChromeExtensions/ChromeExtensions.iml" filepath="$PROJECT_DIR$/ChromeExtensions/ChromeExtensions.iml" />
       <module fileurl="file://$PROJECT_DIR$/J2EE/Exam/Spring/EX.iml" filepath="$PROJECT_DIR$/J2EE/Exam/Spring/EX.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GitCode.iml" filepath="$PROJECT_DIR$/.idea/GitCode.iml" />

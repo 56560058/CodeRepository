@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CXF" />
         <module name="EX" />
         <module name="Mybatisexam" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CXF" target="1.5" />
+      <module name="ECcxf" target="1.5" />
       <module name="EX" target="1.5" />
       <module name="Exam" target="1.5" />
       <module name="Mybatisexam" target="1.5" />

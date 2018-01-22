@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/J2EE/Exam/Mybatis" />
     <file type="web" url="file://$PROJECT_DIR$/J2EE/Exam/Spring" />
   </component>
   <component name="MavenProjectsManager">
@@ -8,6 +9,8 @@
       <list>
         <option value="$PROJECT_DIR$/J2EE/Exam/Spring/pom.xml" />
         <option value="$PROJECT_DIR$/J2EE/Exam/Mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/J2EE/Exam/pom.xml" />
+        <option value="$PROJECT_DIR$/J2EE/Exam/ECcxf/pom.xml" />
       </list>
     </option>
   </component>
